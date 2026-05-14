@@ -205,13 +205,13 @@ Tool Used: Microsoft Power BI
 
 7. How to Use the Dashboard
 
-1. Open the `.pbix` file using Power BI Desktop.
-2. Use slicers to filter data by region, category, and order date.
-3. Review KPI cards for overall business metrics.
-4. Analyze regional and monthly sales trends using charts.
-5. Explore product and country-level insights for detailed business analysis.
-6. Interact with visuals for deeper drill-down insights.
+ Open the `.pbix` file using Power BI Desktop.
+ Use slicers to filter data by region, category, and order date.
+ Review KPI cards for overall business metrics.
+ Analyze regional and monthly sales trends using charts.
+ Explore product and country-level insights for detailed business analysis.
+ Interact with visuals for deeper drill-down insights.
 
  Conclusion
 
-The Global Store Sales Performance Dashboard provides a comprehensive overview of regional sales, product performance, profitability, and business trends through interactive visualizations and KPI monitoring. It helps stakeholders make informed decisions, optimize operations, and identify opportunities for business growth effectively.
+ The Global Store Sales Performance Dashboard provides a comprehensive overview of regional sales, product performance, profitability, and business trends through  interactive visualizations and KPI monitoring. It helps stakeholders make informed decisions, optimize operations, and identify opportunities for business growth  effectively.
