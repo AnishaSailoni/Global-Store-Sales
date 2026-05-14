@@ -194,7 +194,7 @@ Track sales and profit together to improve business margins.
 
  Dashboard Preview
 
-<img width="100%" alt="Global Store Sales Dashboard" src="">
+<img width="100%" alt="Global Store Sales Dashboard" src="https://github.com/AnishaSailoni/Global-Store-Sales/blob/main/Snapshot%20of%20Global%20Superstore%20Sales.png">
 
 
 6. Author
